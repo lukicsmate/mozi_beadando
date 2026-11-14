@@ -1,0 +1,22 @@
+{
+  "name": "mozi_beadando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukicsmate/mozi_beadando.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/lukicsmate/mozi_beadando/issues"
+  },
+  "homepage": "https://github.com/lukicsmate/mozi_beadando#readme"
+}
